@@ -6,6 +6,7 @@
     },
 
     "Blocky" : {
+    "Tradeable" : true,
       "Stat" : [0.065, 4, 3.2, 83, 0.4, 3.3],
       "Property" : ["rbxassetid://0"]
     },
