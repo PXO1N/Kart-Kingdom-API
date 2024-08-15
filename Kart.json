@@ -1,21 +1,24 @@
-{
-  "Standard Kart" : {
-    "Stat" : [0.058, 4, 3, 80, 0.5, 3],
-    "Property" : ["rbxassetid://0"]
-  },
+[{
+    "Standard Kart" : {
+      "Stat" : [0.058, 4, 3, 80, 0.5, 3],
+      "Property" : ["rbxassetid://0"]
+    },
 
-  "Blocky" : {
-    "Stat" : [0.065, 4, 3.2, 83, 0.4, 3.3],
-    "Property" : ["rbxassetid://0"]
-  },
+    "Blocky" : {
+      "Stat" : [0.065, 4, 3.2, 83, 0.4, 3.3],
+      "Property" : ["rbxassetid://0"]
+    },
   
     "Standard Kart" : {
-    "Stat" : [0.058, 4, 3, 80, 0.5, 3],
-    "Property" : ["rbxassetid://0"]
-  },
+      "Stat" : [0.058, 4, 3, 80, 0.5, 3],
+      "Property" : ["rbxassetid://0"]
+    },
 
     "Standard Kart" : {
-    "Stat" : [0.058, 4, 3, 80, 0.5, 3],
-    "Property" : ["rbxassetid://0"]
-  }
-}
+      "Stat" : [0.058, 4, 3, 80, 0.5, 3],
+      "Property" : ["rbxassetid://0"]
+    }
+},
+[
+    "Normal License Plate"
+]]
