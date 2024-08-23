@@ -6,21 +6,30 @@
     },
 
     "Blocky" : {
-    "Tradeable" : true,
+      "Tradeable" : true,
       "Stat" : [0.065, 4, 3.2, 83, 0.4, 3.3],
       "Property" : ["rbxassetid://0"]
     },
   
     "Standard Kart" : {
+      "Tradeable" : false,
       "Stat" : [0.058, 4, 3, 80, 0.5, 3],
       "Property" : ["rbxassetid://0"]
     },
 
     "Standard Kart" : {
+      "Tradeable" : false,
       "Stat" : [0.058, 4, 3, 80, 0.5, 3],
       "Property" : ["rbxassetid://0"]
     }
 },
 [
     "Normal License Plate"
+],
+[
+    "Content Creator",
+    "Teseter",
+    "Admin",
+    "Developer",
+    "Owner"
 ]]
